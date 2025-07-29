@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.main p{
+    font-size: 48px;
+    color: #F9FaF8;
+    font-weight: 900;
+}
+
+.secondary p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo p {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.button, .cta {
+    background-color: #3B82F6;
+}
+
+.menu {
+    background-color: #1f2937}
+
+.header {
+    background-color: #1f2937}
+
+
+
